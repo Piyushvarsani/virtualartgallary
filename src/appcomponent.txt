@@ -1,0 +1,7 @@
+<main className='relative'>
+        <Navbar />
+        <Hero />
+        <About />
+        <Exhibition />
+        <ArtStudio />
+      </main>
